@@ -1,4 +1,4 @@
-![logo](https://github.com/Nicalpesh31/Nicalpesh31/blob/main/Blue%20Modern%20Technology%20Intro%20YouTube%20Video%20.mp4)
+![logo](https://github.com/Nicalpesh31/Nicalpesh31/blob/main/Blue%20Geometric%20Business%20Facebook%20Cover.jpg)
 <h1 align="center">Hi 👋, I'm Alpesh Nichat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
