@@ -1,5 +1,4 @@
-![logo](https://github.com/Nicalpesh31/Nicalpesh31/commit/dd71e85c01bd79d7db30d57e861a347157f79b05)
-
+![logo]
 <h1 align="center">Hi there! 👋 I'm Alpesh Nichat</h1>
 <h3 align="center">Passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
